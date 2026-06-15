@@ -1,2 +1,4 @@
 control-node/.vagrant/
+app001/.vagrant/
+db001/.vagrant/
 control-node/*.log
